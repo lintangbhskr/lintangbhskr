@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<img src="https://raw.githubusercontent.com/lintangbhskr/lintangbhskr/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://avatars.mds.yandex.net/get-pdb/163339/3f2759ae-2ad3-4733-afa7-c1b0e506f481/orig"  />
 </div>
